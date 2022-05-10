@@ -34,7 +34,7 @@ Consequently, the findings will be put together through creating a <b>Data Visua
 
 Finally, the presention through storytelling using a written report or as a presentation.
 
-### II. Introduction ( Scenario )
+### II. Introduction
 
 A new hire as a Data Analyst by a global IT, and business consulting services firm, need to identify future skill requirements in order to keep pace with the constantly changing technologies and remain competitive.
 
