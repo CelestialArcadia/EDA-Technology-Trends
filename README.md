@@ -36,7 +36,7 @@ Finally, the presention through storytelling using a written report or as a pres
 
 ### II. Introduction
 
-A new hire as a Data Analyst by a global IT, and business consulting services firm, need to identify future skill requirements in order to keep pace with the constantly changing technologies and remain competitive.
+A global IT, and business consulting services firm needed to identify future skill requirements in order to keep pace with the constantly changing technologies and remain competitive.
 
 The principle of the project is to answer one key question - <b> What are the current skill requirement in technology field</b>
 
